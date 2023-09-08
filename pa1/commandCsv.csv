@@ -4,3 +4,8 @@ cd,"Changes current working directory"
 chown,"Used to change the owner of a file"
 clear,"Clears the terminal"
 chmode, "Changes permisions of the file"
+pwd, "Prints the path of the current directory"
+mkdir, "Creates a new directory in the current one"
+scp, "Used to securly copy files between servers"
+gcc, "GNU Compiler Collections compiles C & C++"
+
