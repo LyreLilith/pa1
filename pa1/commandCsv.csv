@@ -1,0 +1,6 @@
+commands, description
+cat,"Read data from file and prints it out"
+cd,"Changes current working directory"
+chown,"Used to change the owner of a file"
+clear,"Clears the terminal"
+chmode, "Changes permisions of the file"
